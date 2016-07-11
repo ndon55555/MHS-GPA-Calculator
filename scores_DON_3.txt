@@ -1,0 +1,21 @@
+2014	09	00112	English 9, H	2	Final Grade	94		4.5000	1.0000
+2014	09	01143	Computer Programming I, CP	3	Final Grade	100		4.3000	1.0000
+2014	09	01232	Geometry, H	2	Final Grade	97		4.8000	1.0000
+2014	09	02112	U.S. History I, H	2	Final Grade	97		4.8000	1.0000
+2014	09	03202	Biology I, H	2	Final Grade	97		4.8000	1.0000
+2014	09	04102	Latin I, H	2	Final Grade	97		4.8000	1.0000
+2014	09	08123	Engineering Design Process I	3	Final Grade	93		2.0000	0.5000
+2015	10	00212	English 10, H	2	Final Grade	90		4.2000	1.0000
+2015	10	01242	Exploring Computer Science, H	2	Final Grade	100		4.8000	1.0000
+2015	10	01332	Algebra II, H	2	Final Grade	98		4.8000	1.0000
+2015	10	02222	U.S. History II, H	2	Final Grade	95		4.5000	1.0000
+2015	10	03322	Chemistry I, H	2	Final Grade	98		4.8000	1.0000
+2015	10	04213	Latin II, CP	3	Final Grade	98		4.3000	1.0000
+2015	10	05202	Personal Finance, H	2	Final Grade	97		2.4000	0.5000
+2016	11	00312	English 11, H	2	Final Grade	95		4.5000	1.0000
+2016	11	01032	Trigonometry & Pre-Calculus, H	2	Final Grade	97		4.8000	1.0000
+2016	11	01341	Computer Science, AP	1	Final Grade	98		5.3000	1.0000
+2016	11	01481	Statistics AP	1	Final Grade	98		5.3000	1.0000
+2016	11	02302	Modern World History, H	2	Final Grade	98		4.8000	1.0000
+2016	11	03411	Physics I, AP	1	Final Grade	98		5.3000	1.0000
+2016	11	04302	Latin III/IV, H	2	Final Grade	98		4.8000	1.0000
