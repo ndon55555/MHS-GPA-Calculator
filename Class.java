@@ -44,7 +44,7 @@ public class Class {
         return yearsTaken;
     }
     
-    /* MHS weighted GPA
+    // MHS weighted GPA
     public double getWeightedCredits() {
         double credits = 0.0;
         
@@ -84,9 +84,8 @@ public class Class {
         
         return credits * yearsTaken;
     }
-    */
     
-    //possible 5.0 scale
+    /*possible 5.0 scale
     public double getWeightedCredits() {
         double credits = (double) ((score - 50) / 10 + 1);
         
@@ -102,6 +101,7 @@ public class Class {
         
         return credits * yearsTaken;
     }
+    */
     
     public double getMaxPotentialWeightedCredits() {
         double credits = 5.3;
